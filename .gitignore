@@ -1,1 +1,4 @@
 *.class
+programs/**/.vscode
+programs/**/lib
+programs/**/README.md
